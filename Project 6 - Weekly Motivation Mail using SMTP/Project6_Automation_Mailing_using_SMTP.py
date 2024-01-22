@@ -10,9 +10,10 @@ socket.getaddrinfo('localhost', 8080)
 my_email = "have.a.happyday.everyday@gmail.com"
 my_password = "iolyajzwompeuvvo"
 
-receiver = 'niloyshams21@gmail.com'
+receiver_list = ['niloyshams21@gmail.com',
+                 'syeda.mahjabin.proma@g.bracu.ac.bd']
 
-def sendMail():
+def sendMail(receiver):
     select_number=random.randint(0,29)
     img_file_name="quote_img/" + str(select_number+1) + ".png"
     with open('motivationQuotes.txt') as quotes:
@@ -24,7 +25,10 @@ def sendMail():
     my_message['Subject']='Have a nice day today.'
     my_message['From']= my_email
     my_message['To']= receiver
-    message_text = MIMEText("Dear Myself,\nI hope you will stay motivated all day today and complete all your tast with ease.\nHere is a quote to cheer up yourself.\n"+quote)
+    message_text = MIMEText("""Dear Myself,
+    I hope you will stay motivated all day today and complete all your task with ease.
+    Here is a quote to cheer up yourself.
+    """+quote)
     my_message.attach(message_text)
     image = MIMEImage(quote_image)
     my_message.attach(image)
@@ -37,7 +41,8 @@ def sendMail():
 now = dt.datetime.now()
 day_of_week = now.weekday()
 print(day_of_week)
-if day_of_week == 6:
-    sendMail()
+if day_of_week == 0:
+    for emails in receiver_list:
+        sendMail(emails)
 else:
     print("Not today!")
