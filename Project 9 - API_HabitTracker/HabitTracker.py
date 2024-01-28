@@ -43,9 +43,19 @@ def updateData(new_val):
     response = requests.put(url=update_endpoint_link, json=new_data, headers=head)
     print(response.text)
 
+def deleteData(new_val):
+    delete_endpoint_link = f'{pixela_link}/{user_name}/graphs/{graph_id}/{today}'
+    new_data = {'quantity':new_val}
+    response = requests.put(url=delete_endpoint_link, json=new_data, headers=head)
+    print(response.text)
+
 access_link = f'{pixela_link}/{user_name}/graphs/{graph_id}.html'
 print(access_link)
 head = {'X-USER-TOKEN': token}
 today = datetime.today()
 today = today.strftime('%Y%m%d')
-createData('2')
+
+mod_date = int(input('Enter the date of the data you want to modify:').replace("/",""))
+mod_value = int(input('How many hours did you actually study:'))
+
+createData('4')
