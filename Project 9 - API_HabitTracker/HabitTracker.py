@@ -54,8 +54,6 @@ print(access_link)
 head = {'X-USER-TOKEN': token}
 today = datetime.today()
 today = today.strftime('%Y%m%d')
-
 mod_date = int(input('Enter the date of the data you want to modify:').replace("/",""))
 mod_value = int(input('How many hours did you actually study:'))
-
 createData('4')
