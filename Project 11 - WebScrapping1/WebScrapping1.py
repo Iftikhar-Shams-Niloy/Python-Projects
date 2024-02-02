@@ -18,7 +18,7 @@ def fetchInfo():
         article_links.append(items.get('href'))
         print(items.getText())
         print(items.get('href'))
-        print("#######################################")
+        print("##########################################################")
     for points in points_info:
         fetch = int((points.getText()).split()[0])
         article_points.append(fetch)
