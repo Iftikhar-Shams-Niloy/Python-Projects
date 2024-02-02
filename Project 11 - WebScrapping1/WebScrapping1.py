@@ -55,3 +55,6 @@ writeInfo()
 # print(len(article_links))
 # print(len(article_titles))
 # print(len(article_points))
+
+# Scrapping can be illegal in many websites.
+# Use "/robots.txt" at the end of any website to see whether it is allowed to scrap or not.
