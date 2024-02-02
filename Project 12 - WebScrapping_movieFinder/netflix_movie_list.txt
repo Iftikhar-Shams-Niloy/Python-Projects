@@ -1,0 +1,300 @@
+NAME: His House
+TOMATO RATING: https://www.rottentomatoes.com/m/his_house
+--------------------------------------------------------------------------------------------
+NAME: L.A. Confidential
+TOMATO RATING: https://www.rottentomatoes.com/m/la_confidential
+--------------------------------------------------------------------------------------------
+NAME: Miss Juneteenth
+TOMATO RATING: https://www.rottentomatoes.com/m/miss_juneteenth
+--------------------------------------------------------------------------------------------
+NAME: The Forty-Year-Old Version
+TOMATO RATING: https://www.rottentomatoes.com/m/the_forty_year_old_version
+--------------------------------------------------------------------------------------------
+NAME: Under the Shadow
+TOMATO RATING: https://www.rottentomatoes.com/m/under_the_shadow
+--------------------------------------------------------------------------------------------
+NAME: Ma Rainey's Black Bottom
+TOMATO RATING: https://www.rottentomatoes.com/m/ma_raineys_black_bottom
+--------------------------------------------------------------------------------------------
+NAME: Dolemite Is My Name
+TOMATO RATING: https://www.rottentomatoes.com/m/dolemite_is_my_name
+--------------------------------------------------------------------------------------------
+NAME: Hunt for the Wilderpeople
+TOMATO RATING: https://www.rottentomatoes.com/m/hunt_for_the_wilderpeople
+--------------------------------------------------------------------------------------------
+NAME: Mudbound
+TOMATO RATING: https://www.rottentomatoes.com/m/mudbound
+--------------------------------------------------------------------------------------------
+NAME: Paddington
+TOMATO RATING: https://www.rottentomatoes.com/m/paddington_2014
+--------------------------------------------------------------------------------------------
+NAME: Jaws
+TOMATO RATING: https://www.rottentomatoes.com/m/jaws
+--------------------------------------------------------------------------------------------
+NAME: I Lost My Body
+TOMATO RATING: https://www.rottentomatoes.com/m/i_lost_my_body
+--------------------------------------------------------------------------------------------
+NAME: Roma
+TOMATO RATING: https://www.rottentomatoes.com/m/roma_2018
+--------------------------------------------------------------------------------------------
+NAME: The Social Network
+TOMATO RATING: https://www.rottentomatoes.com/m/the-social-network
+--------------------------------------------------------------------------------------------
+NAME: Catch Me if You Can
+TOMATO RATING: https://www.rottentomatoes.com/m/catch_me_if_you_can
+--------------------------------------------------------------------------------------------
+NAME: Atlantics
+TOMATO RATING: https://www.rottentomatoes.com/m/atlantics
+--------------------------------------------------------------------------------------------
+NAME: The Wonderful Story of Henry Sugar
+TOMATO RATING: https://www.rottentomatoes.com/m/the_wonderful_story_of_henry_sugar
+--------------------------------------------------------------------------------------------
+NAME: Monty Python and the Holy Grail
+TOMATO RATING: https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail
+--------------------------------------------------------------------------------------------
+NAME: Boyz N the Hood
+TOMATO RATING: https://www.rottentomatoes.com/m/boyz_n_the_hood
+--------------------------------------------------------------------------------------------
+NAME: Life of Brian
+TOMATO RATING: https://www.rottentomatoes.com/m/monty_pythons_life_of_brian
+--------------------------------------------------------------------------------------------
+NAME: To All the Boys I've Loved Before
+TOMATO RATING: https://www.rottentomatoes.com/m/to_all_the_boys_ive_loved_before
+--------------------------------------------------------------------------------------------
+NAME: Outside In
+TOMATO RATING: https://www.rottentomatoes.com/m/outside_in_2018
+--------------------------------------------------------------------------------------------
+NAME: The Irishman
+TOMATO RATING: https://www.rottentomatoes.com/m/the_irishman
+--------------------------------------------------------------------------------------------
+NAME: Marriage Story
+TOMATO RATING: https://www.rottentomatoes.com/m/marriage_story_2019
+--------------------------------------------------------------------------------------------
+NAME: It Follows
+TOMATO RATING: https://www.rottentomatoes.com/m/it_follows
+--------------------------------------------------------------------------------------------
+NAME: Lost in Translation
+TOMATO RATING: https://www.rottentomatoes.com/m/lost_in_translation
+--------------------------------------------------------------------------------------------
+NAME: Puss in Boots: The Last Wish
+TOMATO RATING: https://www.rottentomatoes.com/m/puss_in_boots_the_last_wish
+--------------------------------------------------------------------------------------------
+NAME: Wallace & Gromit: The Curse of the Were-Rabbit
+TOMATO RATING: https://www.rottentomatoes.com/m/wallace_and_gromit_the_curse_of_the_were_rabbit
+--------------------------------------------------------------------------------------------
+NAME: They Cloned Tyrone
+TOMATO RATING: https://www.rottentomatoes.com/m/they_cloned_tyrone
+--------------------------------------------------------------------------------------------
+NAME: Klaus
+TOMATO RATING: https://www.rottentomatoes.com/m/klaus
+--------------------------------------------------------------------------------------------
+NAME: Call Me by Your Name
+TOMATO RATING: https://www.rottentomatoes.com/m/call_me_by_your_name
+--------------------------------------------------------------------------------------------
+NAME: The Power of the Dog
+TOMATO RATING: https://www.rottentomatoes.com/m/the_power_of_the_dog
+--------------------------------------------------------------------------------------------
+NAME: Carol
+TOMATO RATING: https://www.rottentomatoes.com/m/carol
+--------------------------------------------------------------------------------------------
+NAME: The Lost Daughter
+TOMATO RATING: https://www.rottentomatoes.com/m/the_lost_daughter
+--------------------------------------------------------------------------------------------
+NAME: Emily the Criminal
+TOMATO RATING: https://www.rottentomatoes.com/m/emily_the_criminal
+--------------------------------------------------------------------------------------------
+NAME: Saving Private Ryan
+TOMATO RATING: https://www.rottentomatoes.com/m/saving_private_ryan
+--------------------------------------------------------------------------------------------
+NAME: Groundhog Day
+TOMATO RATING: https://www.rottentomatoes.com/m/groundhog_day
+--------------------------------------------------------------------------------------------
+NAME: The Sea Beast
+TOMATO RATING: https://www.rottentomatoes.com/m/the_sea_beast
+--------------------------------------------------------------------------------------------
+NAME: Private Life
+TOMATO RATING: https://www.rottentomatoes.com/m/private_life_2018
+--------------------------------------------------------------------------------------------
+NAME: Nimona
+TOMATO RATING: https://www.rottentomatoes.com/m/nimona
+--------------------------------------------------------------------------------------------
+NAME: Wonder Woman
+TOMATO RATING: https://www.rottentomatoes.com/m/wonder_woman_2017
+--------------------------------------------------------------------------------------------
+NAME: Captain Phillips
+TOMATO RATING: https://www.rottentomatoes.com/m/captain_phillips
+--------------------------------------------------------------------------------------------
+NAME: Mission: Impossible - Ghost Protocol
+TOMATO RATING: https://www.rottentomatoes.com/m/mission_impossible_ghost_protocol
+--------------------------------------------------------------------------------------------
+NAME: Hustle
+TOMATO RATING: https://www.rottentomatoes.com/m/hustle_2022
+--------------------------------------------------------------------------------------------
+NAME: Spy Kids
+TOMATO RATING: https://www.rottentomatoes.com/m/spy_kids
+--------------------------------------------------------------------------------------------
+NAME: Enola Holmes 2
+TOMATO RATING: https://www.rottentomatoes.com/m/enola_holmes_2
+--------------------------------------------------------------------------------------------
+NAME: Cam
+TOMATO RATING: https://www.rottentomatoes.com/m/cam
+--------------------------------------------------------------------------------------------
+NAME: Roald Dahl's Matilda the Musical
+TOMATO RATING: https://www.rottentomatoes.com/m/roald_dahls_matilda_the_musical
+--------------------------------------------------------------------------------------------
+NAME: Sand Storm
+TOMATO RATING: https://www.rottentomatoes.com/m/sand_storm
+--------------------------------------------------------------------------------------------
+NAME: Glass Onion: A Knives Out Mystery
+TOMATO RATING: https://www.rottentomatoes.com/m/glass_onion_a_knives_out_mystery
+--------------------------------------------------------------------------------------------
+NAME: Da 5 Bloods
+TOMATO RATING: https://www.rottentomatoes.com/m/da_5_bloods
+--------------------------------------------------------------------------------------------
+NAME: Drag Me to Hell
+TOMATO RATING: https://www.rottentomatoes.com/m/drag_me_to_hell
+--------------------------------------------------------------------------------------------
+NAME: Silver Linings Playbook
+TOMATO RATING: https://www.rottentomatoes.com/m/silver_linings_playbook
+--------------------------------------------------------------------------------------------
+NAME: The Meyerowitz Stories (New and Selected)
+TOMATO RATING: https://www.rottentomatoes.com/m/the_meyerowitz_stories
+--------------------------------------------------------------------------------------------
+NAME: The Squid and the Whale
+TOMATO RATING: https://www.rottentomatoes.com/m/squid_and_the_whale
+--------------------------------------------------------------------------------------------
+NAME: El Camino: A Breaking Bad Movie
+TOMATO RATING: https://www.rottentomatoes.com/m/el_camino_a_breaking_bad_movie
+--------------------------------------------------------------------------------------------
+NAME: We the Animals
+TOMATO RATING: https://www.rottentomatoes.com/m/we_the_animals
+--------------------------------------------------------------------------------------------
+NAME: The Little Prince
+TOMATO RATING: https://www.rottentomatoes.com/m/the_little_prince_2016
+--------------------------------------------------------------------------------------------
+NAME: Set It Up
+TOMATO RATING: https://www.rottentomatoes.com/m/set_it_up
+--------------------------------------------------------------------------------------------
+NAME: Stand by Me
+TOMATO RATING: https://www.rottentomatoes.com/m/stand_by_me_1986
+--------------------------------------------------------------------------------------------
+NAME: 1922
+TOMATO RATING: https://www.rottentomatoes.com/m/1922_2017
+--------------------------------------------------------------------------------------------
+NAME: Uncorked
+TOMATO RATING: https://www.rottentomatoes.com/m/uncorked_2020
+--------------------------------------------------------------------------------------------
+NAME: La La Land
+TOMATO RATING: https://www.rottentomatoes.com/m/la_la_land
+--------------------------------------------------------------------------------------------
+NAME: Phantom Thread
+TOMATO RATING: https://www.rottentomatoes.com/m/phantom_thread
+--------------------------------------------------------------------------------------------
+NAME: The Nice Guys
+TOMATO RATING: https://www.rottentomatoes.com/m/the_nice_guys
+--------------------------------------------------------------------------------------------
+NAME: May December
+TOMATO RATING: https://www.rottentomatoes.com/m/may_december
+--------------------------------------------------------------------------------------------
+NAME: The White Tiger
+TOMATO RATING: https://www.rottentomatoes.com/m/the_white_tiger_2020
+--------------------------------------------------------------------------------------------
+NAME: Beasts of No Nation
+TOMATO RATING: https://www.rottentomatoes.com/m/beasts_of_no_nation
+--------------------------------------------------------------------------------------------
+NAME: Apollo 10 1/2: A Space Age Childhood
+TOMATO RATING: https://www.rottentomatoes.com/m/apollo_10_1_2_a_space_age_childhood
+--------------------------------------------------------------------------------------------
+NAME: High Flying Bird
+TOMATO RATING: https://www.rottentomatoes.com/m/high_flying_bird
+--------------------------------------------------------------------------------------------
+NAME: Happy as Lazzaro
+TOMATO RATING: https://www.rottentomatoes.com/m/happy_as_lazzaro
+--------------------------------------------------------------------------------------------
+NAME: Gerald's Game
+TOMATO RATING: https://www.rottentomatoes.com/m/geralds_game
+--------------------------------------------------------------------------------------------
+NAME: You Are So Not Invited to My Bat Mitzvah
+TOMATO RATING: https://www.rottentomatoes.com/m/you_are_so_not_invited_to_my_bat_mitzvah
+--------------------------------------------------------------------------------------------
+NAME: The Willoughbys
+TOMATO RATING: https://www.rottentomatoes.com/m/the_willoughbys
+--------------------------------------------------------------------------------------------
+NAME: Shazam!
+TOMATO RATING: https://www.rottentomatoes.com/m/shazam
+--------------------------------------------------------------------------------------------
+NAME: The Suicide Squad
+TOMATO RATING: https://www.rottentomatoes.com/m/the_suicide_squad
+--------------------------------------------------------------------------------------------
+NAME: The Imitation Game
+TOMATO RATING: https://www.rottentomatoes.com/m/the_imitation_game
+--------------------------------------------------------------------------------------------
+NAME: All Quiet on the Western Front
+TOMATO RATING: https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022
+--------------------------------------------------------------------------------------------
+NAME: The Kindergarten Teacher
+TOMATO RATING: https://www.rottentomatoes.com/m/the_kindergarten_teacher_2018
+--------------------------------------------------------------------------------------------
+NAME: On Body and Soul
+TOMATO RATING: https://www.rottentomatoes.com/m/on_body_and_soul
+--------------------------------------------------------------------------------------------
+NAME: The Trial of the Chicago 7
+TOMATO RATING: https://www.rottentomatoes.com/m/the_trial_of_the_chicago_7
+--------------------------------------------------------------------------------------------
+NAME: The Big Short
+TOMATO RATING: https://www.rottentomatoes.com/m/the_big_short
+--------------------------------------------------------------------------------------------
+NAME: Zombieland
+TOMATO RATING: https://www.rottentomatoes.com/m/zombieland
+--------------------------------------------------------------------------------------------
+NAME: The Ballad of Buster Scruggs
+TOMATO RATING: https://www.rottentomatoes.com/m/the_ballad_of_buster_scruggs
+--------------------------------------------------------------------------------------------
+NAME: The Two Popes
+TOMATO RATING: https://www.rottentomatoes.com/m/the_two_popes
+--------------------------------------------------------------------------------------------
+NAME: Oxygen
+TOMATO RATING: https://www.rottentomatoes.com/m/oxygen_2021
+--------------------------------------------------------------------------------------------
+NAME: Always Be My Maybe
+TOMATO RATING: https://www.rottentomatoes.com/m/always_be_my_maybe_2019
+--------------------------------------------------------------------------------------------
+NAME: I Am Mother
+TOMATO RATING: https://www.rottentomatoes.com/m/i_am_mother
+--------------------------------------------------------------------------------------------
+NAME: I Don't Feel at Home in This World Anymore
+TOMATO RATING: https://www.rottentomatoes.com/m/i_dont_feel_at_home_in_this_world_anymore
+--------------------------------------------------------------------------------------------
+NAME: Paddleton
+TOMATO RATING: https://www.rottentomatoes.com/m/paddleton
+--------------------------------------------------------------------------------------------
+NAME: The Karate Kid
+TOMATO RATING: https://www.rottentomatoes.com/m/karate_kid
+--------------------------------------------------------------------------------------------
+NAME: Rush
+TOMATO RATING: https://www.rottentomatoes.com/m/rush_2013
+--------------------------------------------------------------------------------------------
+NAME: Rango
+TOMATO RATING: https://www.rottentomatoes.com/m/rango
+--------------------------------------------------------------------------------------------
+NAME: Fear Street Part Three: 1666
+TOMATO RATING: https://www.rottentomatoes.com/m/fear_street_part_three_1666
+--------------------------------------------------------------------------------------------
+NAME: Field of Dreams
+TOMATO RATING: https://www.rottentomatoes.com/m/field_of_dreams
+--------------------------------------------------------------------------------------------
+NAME: Donnie Brasco
+TOMATO RATING: https://www.rottentomatoes.com/m/donnie_brasco
+--------------------------------------------------------------------------------------------
+NAME: The Breaker Upperers
+TOMATO RATING: https://www.rottentomatoes.com/m/the_breaker_upperers
+--------------------------------------------------------------------------------------------
+NAME: American Beauty
+TOMATO RATING: https://www.rottentomatoes.com/m/american_beauty
+--------------------------------------------------------------------------------------------
+NAME: Kung Fu Panda 3
+TOMATO RATING: https://www.rottentomatoes.com/m/kung_fu_panda_3
+--------------------------------------------------------------------------------------------
+NAME: Captain Underpants: The First Epic Movie
+TOMATO RATING: https://www.rottentomatoes.com/m/captain_underpants_the_first_epic_movie
+--------------------------------------------------------------------------------------------
