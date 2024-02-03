@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-import re
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 date = input("Enter date (format: YYYY-MM-DD): ")
+song_names = []
+artist_names = []
+song_URIs = []
 
 website_URL = (f"https://www.billboard.com/charts/hot-100/{date}/")
 
@@ -15,9 +17,6 @@ my_soup = BeautifulSoup(website_content,"html.parser")
 
 song_info = my_soup.select("li ul li h3")
 artist_info = my_soup.select("div ul li ul li span")
-
-song_names = []
-artist_names = []
 
 def makeLists():
     print("=================================================================")
@@ -37,12 +36,32 @@ def makeLists():
             print(info)
 
 def makeSpotifyPlaylist():
-    my_spotipy = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="9fc6337b49e34ec2abc3f1af117ff3d7",
-                                                   client_secret="329bee95778a43ae9072393ae3c213fc",
-                                                   redirect_uri="http://example.com",
-                                                   scope="user-library-read"))
-    results = my_spotipy.current_user_saved_tracks()
-    print(results)
+    year = date.split("-")[0]
+    with open("my_info.txt","r") as info:
+        client_id = str(info.readline().strip())
+        client_secret = str(info.readline().strip())
+    my_spotipy = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id= client_id,
+                                                    client_secret= client_secret,
+                                                    redirect_uri="http://example.com",
+                                                    scope="playlist-read-private, " \
+                                                        "user-read-currently-playing, " \
+                                                        "user-read-currently-playing, " \
+                                                        "user-follow-read, playlist-modify-private",
+                                                    show_dialog=True,
+                                                    cache_path="token.txt"))
+    user_id = my_spotipy.current_user()["id"]
+    for song,artist in zip(song_names,artist_names):
+        result = my_spotipy.search(q=f"track:{song} artist:{artist}", type="track")
+        try:
+            uri = result["tracks"]["items"][0]["uri"]
+            song_URIs.append(uri)
+            print(f"<<<{song} ADDED SUCCESSFULLY.>>>")
+        except IndexError:
+            print(f"<<<{song} DOES NOT EXIST!!!>>>")
+    playlist = my_spotipy.user_playlist_create(user=user_id,name=f"{date} Billboard 100",public=False,)
+    my_spotipy.playlist_add_items(playlist_id=playlist["id"],items=song_URIs)
+    print(f"New playlist '{date} Billboard 100' successfully created on Spotify!")
+
 
 makeLists()
 makeSpotifyPlaylist()
