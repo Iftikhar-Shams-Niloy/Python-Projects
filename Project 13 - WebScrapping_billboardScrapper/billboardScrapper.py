@@ -58,6 +58,7 @@ def makeSpotifyPlaylist():
             print(f"<<<{song} ADDED SUCCESSFULLY.>>>")
         except IndexError:
             print(f"<<<{song} DOES NOT EXIST!!!>>>")
+
     playlist = my_spotipy.user_playlist_create(user=user_id,name=f"{date} Billboard 100",public=False,)
     my_spotipy.playlist_add_items(playlist_id=playlist["id"],items=song_URIs)
     print(f"New playlist '{date} Billboard 100' successfully created on Spotify!")
