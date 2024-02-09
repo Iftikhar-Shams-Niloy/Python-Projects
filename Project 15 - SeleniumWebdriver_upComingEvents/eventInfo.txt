@@ -1,0 +1,6 @@
+Event,Date
+NZPUG-Auckland: The Python Community in 2024,2024-02-21
+Django Girls Ho,2024-02-24
+Prague Python Pizza 2024,2024-02-24
+PyCon PH 2024,2024-02-25
+PyLadies Amsterdam: Fine-tuning text-to-image diffusion models for personalization and subject-driven generation,2024-02-29

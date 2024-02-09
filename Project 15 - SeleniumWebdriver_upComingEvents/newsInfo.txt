@@ -1,0 +1,6 @@
+News,Date
+Software Bill-of-Materials documents are now available for CPython,2024-02-08
+Introducing PSF Grants Program Office Hours,2024-02-07
+Python 3.12.2 and 3.11.8 are now available.,2024-02-07
+Kicking off 2024 strong, thanks to our community!,2024-01-31
+Announcing Python Software Foundation Fellow Members for Q3 2023! 🎉,2024-01-18
