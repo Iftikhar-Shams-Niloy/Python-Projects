@@ -11,8 +11,8 @@ graph_id = my_data[0]['graph_id']
 pixela_link = my_data[0]['pixela_link']
 
 def createAccount():
-    user_parameters= {'token':'IftikhaRShamSNiloy5916',
-                      'username': 'niloy21',
+    user_parameters= {'token': token,
+                      'username': user_name,
                       'agreeTermsOfService':'yes',
                       'notMinor':'yes'}
     response = requests.post(url=pixela_link, json=user_parameters)
