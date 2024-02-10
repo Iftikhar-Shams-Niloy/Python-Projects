@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import fake_useragent
 from datetime import datetime
 
 chrome_options = webdriver.ChromeOptions()
