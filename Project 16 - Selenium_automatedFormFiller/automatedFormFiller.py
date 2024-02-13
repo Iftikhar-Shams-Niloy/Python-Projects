@@ -36,7 +36,7 @@ def fillTheForm(user_name, user_email, hobbies_list, animal_choice):
         driver.quit()
 
     except:
-        print("Error completing the task!")
+        print(str(count)+"Error completing the FROM!!!")
         driver.quit()
 
 
@@ -51,8 +51,8 @@ def getData():
 
         fillTheForm(user_name,user_email,user_hobbies,user_animal)
 
-        print("All Forms SUBMITTED!!!")
+        print(str(count)+". FROM Submitted Successfully!!!")
 
-
+count=1
 getData()
 
