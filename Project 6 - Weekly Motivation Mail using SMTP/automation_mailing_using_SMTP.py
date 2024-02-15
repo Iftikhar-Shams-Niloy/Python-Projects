@@ -41,7 +41,7 @@ def sendMail(receiver):
 now = dt.datetime.now()
 day_of_week = now.weekday()
 print(day_of_week)
-if day_of_week == 0:
+if day_of_week == 3:
     for emails in receiver_list:
         sendMail(emails)
 else:
