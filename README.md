@@ -1,8 +1,8 @@
 # Python-Projects
-This repository includes various python projects from beginner to intermediate level. <br>
+This repository includes various python projects from beginner to intermediate level. The projects utilizes various libraries of python and are fun to try out. Beautiful Soup, Selenium Webdriver and OpenGL are three of the mentionable libraries that are used.<br>
 <ul>
   <li>Beginner: from 1 to 5</li>
-  <li>Intermediate: from 6-17</li>
+  <li>Intermediate: from 6-20</li>
 </ul>
 
 ### Beginner Projects
